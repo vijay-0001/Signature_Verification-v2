@@ -1,0 +1,13 @@
+training_dir = "C:/Users/vijay/Desktop/Code/Signature_Verification v2/sign_data/CEDAR/signatures"
+training_csv = "C:/Users/vijay/Desktop/Code/Signature_Verification v2/sign_data/CEDAR/signatures/cedar_train.csv"
+testing_csv = "C:/Users/vijay/Desktop/Code/Signature_Verification v2/sign_data/CEDAR/signatures/cedar_test.csv"
+testing_dir = "C:/Users/vijay/Desktop/Code/Signature_Verification v2/sign_data/CEDAR/signatures"
+#testing_csv = "C:/Users/vijay/Desktop/Code/Signature_Verification/sign_data/test_data.csv"
+#testing_dir = "C:/Users/vijay/Desktop/Code/Signature_Verification/sign_data/test"
+batch_size = 32
+#batch_size = 32
+epochs = 20
+#epochs = 2
+#optimal_threshold = 0.011876406148076057
+#optimal_threshold = 0.9
+#optimal_threshold = 0.07284969836473465
